@@ -31,7 +31,7 @@ These questions are intended for those who are preparing for Facebook/Meta.
 | 25 |  Reported Posts II   | [Link](https://leetcode.com/problems/reported-posts-ii ) | PENDING | Array
 | 26 |  Shuffle an Array    | [Link](https://leetcode.com/problems/shuffle-an-array  ) | PENDING | Array
 | 27 |  Combination Sum II  | [Link](https://leetcode.com/problems/combination-sum-ii ) | PENDING | ArrayBacktracking
-| 28 |  Combination Sum | [Link](https://leetcode.com/problems/combination-sum) | PENDING | ArrayBacktracking
+| 28 |  Combination Sum | [Link](https://leetcode.com/problems/combination-sum) | Done | ArrayBacktracking
 | 29 |  Word Search | [Link](https://leetcode.com/problems/word-search) | PENDING | ArrayBacktracking
 | 30 |  Subsets II  | [Link](https://leetcode.com/problems/subsets-ii ) | PENDING | ArrayBacktracking
 | 31 |  Subsets | [Link](https://leetcode.com/problems/subsets) | PENDING | ArrayBacktrackingBit Manipulation
