@@ -35,7 +35,7 @@ These questions are intended for those who are preparing for Facebook/Meta.
 | 29 |  Word Search | [Link](https://leetcode.com/problems/word-search) | PENDING | ArrayBacktracking
 | 30 |  Subsets II  | [Link](https://leetcode.com/problems/subsets-ii ) | PENDING | ArrayBacktracking
 | 31 |  Subsets | [Link](https://leetcode.com/problems/subsets) | PENDING | ArrayBacktrackingBit Manipulation
-| 32 |  Find First and Last Position of Element in Sorted Array | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | PENDING | ArrayBinary Search
+| 32 |  Find First and Last Position of Element in Sorted Array | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Done | ArrayBinary Search
 | 33 |  Search in Rotated Sorted Array  | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array ) | PENDING | ArrayBinary Search
 | 34 |  Find Peak Element   | [Link](https://leetcode.com/problems/find-peak-element ) | PENDING | ArrayBinary Search
 | 35 |  Find Minimum in Rotated Sorted Array II | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | PENDING | ArrayBinary Search
