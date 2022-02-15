@@ -43,7 +43,7 @@ These questions are intended for those who are preparing for Facebook/Meta.
 | 37 |  Search in Rotated Sorted Array II   | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii ) | PENDING | ArrayBinary Search
 | 38 |  Search a 2D Matrix  | [Link](https://leetcode.com/problems/search-a-2d-matrix ) | PENDING | ArrayBinary Search
 | 39 |  Median of Two Sorted Arrays | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays) | PENDING | ArrayBinary SearchDivide and Conquer
-| 40 |  Max Area of Island  | [Link](https://leetcode.com/problems/max-area-of-island ) | PENDING | ArrayDepth-first Search
+| 40 |  Max Area of Island  | [Link](https://leetcode.com/problems/max-area-of-island ) | Done | ArrayDepth-first Search
 | 41 |  Maximum Subarray    | [Link](https://leetcode.com/problems/maximum-subarray  ) | PENDING | ArrayDivide and ConquerDynamic Programming
 | 42 |  Maximum Sum of 3 Non-Overlapping Subarrays  | [Link](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays ) | PENDING | ArrayDynamic Programming
 | 43 |  Best Time to Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | PENDING | ArrayDynamic Programming
