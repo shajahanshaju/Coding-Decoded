@@ -49,7 +49,7 @@ These questions are intended for those who are preparing for Facebook/Meta.
 | 43 |  Best Time to Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | PENDING | ArrayDynamic Programming
 | 44 |  Maximum Product Subarray    | [Link](https://leetcode.com/problems/maximum-product-subarray  ) | PENDING | ArrayDynamic Programming
 | 45 |  Unique Paths    | [Link](https://leetcode.com/problems/unique-paths  ) | PENDING | ArrayDynamic Programming
-| 46 |  Minimum Time Visiting All Points    | [Link](https://leetcode.com/problems/minimum-time-visiting-all-points  ) | PENDING | ArrayGeometry
+| 46 |  Minimum Time Visiting All Points    | [Link](https://leetcode.com/problems/minimum-time-visiting-all-points  ) | Done | ArrayGeometry
 | 47 |  Best Time to Buy and Sell Stock II  | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii ) | PENDING | ArrayGreedy
 | 48 |  Jump Game   | [Link](https://leetcode.com/problems/jump-game ) | PENDING | ArrayGreedy
 | 49 |  Task Scheduler  | [Link](https://leetcode.com/problems/task-scheduler ) | PENDING | ArrayGreedyQueue
