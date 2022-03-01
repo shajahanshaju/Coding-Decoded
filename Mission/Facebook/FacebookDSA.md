@@ -53,7 +53,7 @@ These questions are intended for those who are preparing for Facebook/Meta.
 | 47 |  Best Time to Buy and Sell Stock II  | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii ) | Done | ArrayGreedy
 | 48 |  Jump Game   | [Link](https://leetcode.com/problems/jump-game ) | PENDING | ArrayGreedy
 | 49 |  Task Scheduler  | [Link](https://leetcode.com/problems/task-scheduler ) | PENDING | ArrayGreedyQueue
-| 50 |  Subarray Sum Equals K   | [Link](https://leetcode.com/problems/subarray-sum-equals-k ) | PENDING | ArrayHash Table
+| 50 |  Subarray Sum Equals K   | [Link](https://leetcode.com/problems/subarray-sum-equals-k ) | Done | ArrayHash Table
 | 51 |  Two Sum | [Link](https://leetcode.com/problems/two-sum) | PENDING | ArrayHash Table
 | 52 |  Subarray Sums Divisible by K    | [Link](https://leetcode.com/problems/subarray-sums-divisible-by-k  ) | PENDING | ArrayHash Table
 | 53 |  Kth Missing Positive Number | [Link](https://leetcode.com/problems/kth-missing-positive-number) | PENDING | ArrayHash Table
@@ -61,7 +61,7 @@ These questions are intended for those who are preparing for Facebook/Meta.
 | 55 |  Insert Delete GetRandom O(1)    | [Link](https://leetcode.com/problems/insert-delete-getrandom-o1 ) | PENDING | ArrayHash TableDesign
 | 56 |  Insert Delete GetRandom O(1) - Duplicates allowed   | [Link](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed ) | PENDING | ArrayHash TableDesign
 | 57 |  Dot Product of Two Sparse Vectors   | [Link](https://leetcode.com/problems/dot-product-of-two-sparse-vectors ) | PENDING | ArrayHash TableTwo Pointers
-| 58 |  Maximum Swap    | [Link](https://leetcode.com/problems/maximum-swap  ) | PENDING | ArrayMath
+| 58 |  Maximum Swap    | [Link](https://leetcode.com/problems/maximum-swap  ) | Done | ArrayMath
 | 59 |  Missing Number  | [Link](https://leetcode.com/problems/missing-number ) | PENDING | ArrayMathBit Manipulation
 | 60 |  Merge Intervals | [Link](https://leetcode.com/problems/merge-intervals) | PENDING | ArraySort
 | 61 |  Diagonal Traverse II    | [Link](https://leetcode.com/problems/diagonal-traverse-ii  ) | PENDING | ArraySort
