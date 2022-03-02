@@ -63,13 +63,13 @@ These questions are intended for those who are preparing for Facebook/Meta.
 | 57 |  Dot Product of Two Sparse Vectors   | [Link](https://leetcode.com/problems/dot-product-of-two-sparse-vectors ) | PENDING | ArrayHash TableTwo Pointers
 | 58 |  Maximum Swap    | [Link](https://leetcode.com/problems/maximum-swap  ) | Done | ArrayMath
 | 59 |  Missing Number  | [Link](https://leetcode.com/problems/missing-number ) | PENDING | ArrayMathBit Manipulation
-| 60 |  Merge Intervals | [Link](https://leetcode.com/problems/merge-intervals) | PENDING | ArraySort
+| 60 |  Merge Intervals | [Link](https://leetcode.com/problems/merge-intervals) | Done | ArraySort
 | 61 |  Diagonal Traverse II    | [Link](https://leetcode.com/problems/diagonal-traverse-ii  ) | PENDING | ArraySort
 | 62 |  Pancake Sorting | [Link](https://leetcode.com/problems/pancake-sorting) | PENDING | ArraySort
 | 63 |  Insert Interval | [Link](https://leetcode.com/problems/insert-interval) | PENDING | ArraySort
 | 64 |  Remove Sub-Folders from the Filesystem  | [Link](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem ) | PENDING | ArrayString
 | 65 |  Word Ladder II  | [Link](https://leetcode.com/problems/word-ladder-ii ) | PENDING | ArrayStringBacktrackingBreadth-first Search
-| 66 |  Merge Sorted Array  | [Link](https://leetcode.com/problems/merge-sorted-array ) | PENDING | ArrayTwo Pointers
+| 66 |  Merge Sorted Array  | [Link](https://leetcode.com/problems/merge-sorted-array ) | Done | ArrayTwo Pointers
 | 67 |  Squares of a Sorted Array   | [Link](https://leetcode.com/problems/squares-of-a-sorted-array ) | PENDING | ArrayTwo Pointers
 | 68 |  3Sum    | [Link](https://leetcode.com/problems/3sum  ) | PENDING | ArrayTwo Pointers
 | 69 |  Move Zeroes | [Link](https://leetcode.com/problems/move-zeroes) | PENDING | ArrayTwo Pointers
