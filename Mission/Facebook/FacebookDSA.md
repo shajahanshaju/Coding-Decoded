@@ -79,7 +79,7 @@ These questions are intended for those who are preparing for Facebook/Meta.
 | 73 |  Sort Colors | [Link](https://leetcode.com/problems/sort-colors) | PENDING | ArrayTwo PointersSort
 | 74 |  Trapping Rain Water | [Link](https://leetcode.com/problems/trapping-rain-water) | PENDING | ArrayTwo PointersStack
 | 75 |  Longest Consecutive Sequence    | [Link](https://leetcode.com/problems/longest-consecutive-sequence  ) | PENDING | ArrayUnion Find
-| 76 |  Permutations    | [Link](https://leetcode.com/problems/permutations  ) | PENDING | Backtracking
+| 76 |  Permutations    | [Link](https://leetcode.com/problems/permutations  ) | Done | Backtracking
 | 77 |  N-Queens    | [Link](https://leetcode.com/problems/n-queens  ) | PENDING | Backtracking
 | 78 |  Permutations II | [Link](https://leetcode.com/problems/permutations-ii) | PENDING | Backtracking
 | 79 |  Design Add and Search Words Data Structure  | [Link](https://leetcode.com/problems/design-add-and-search-words-data-structure ) | PENDING | BacktrackingDesignTrie
