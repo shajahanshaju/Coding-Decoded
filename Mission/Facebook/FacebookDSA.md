@@ -87,7 +87,7 @@ These questions are intended for those who are preparing for Facebook/Meta.
 | 81 |  Range Sum Query - Mutable   | [Link](https://leetcode.com/problems/range-sum-query-mutable) | PENDING | Binary Indexed TreeSegment Tree
 | 82 |  First Bad Version   | [Link](https://leetcode.com/problems/first-bad-version ) | PENDING | Binary Search
 | 83 |  Missing Element in Sorted Array | [Link](https://leetcode.com/problems/missing-element-in-sorted-array) | PENDING | Binary Search
-| 84 |  Find K Closest Elements | [Link](https://leetcode.com/problems/find-k-closest-elements) | PENDING | Binary Search
+| 84 |  Find K Closest Elements | [Link](https://leetcode.com/problems/find-k-closest-elements) | Done | Binary Search
 | 85 |  Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas) | PENDING | Binary Search
 | 86 |  Single Element in a Sorted Array    | [Link](https://leetcode.com/problems/single-element-in-a-sorted-array  ) | PENDING | Binary Search
 | 87 |  Rank Scores | [Link](https://leetcode.com/problems/rank-scores) | PENDING | Binary Search
