@@ -98,7 +98,7 @@ These questions are intended for those who are preparing for Facebook/Meta.
 | 92 |  Random Pick with Weight | [Link](https://leetcode.com/problems/random-pick-with-weight) | PENDING | Binary SearchRandom
 | 93 |  Closest Binary Search Tree Value    | [Link](https://leetcode.com/problems/closest-binary-search-tree-value  ) | PENDING | Binary SearchTree
 | 94 |  Kth Smallest Element in a BST   | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst ) | PENDING | Binary SearchTree
-| 95 |  Convert a Number to Hexadecimal | [Link](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | PENDING | Bit Manipulation
+| 95 |  Convert a Number to Hexadecimal | [Link](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | Done | Bit Manipulation
 | 96 |  Number of 1 Bits    | [Link](https://leetcode.com/problems/number-of-1-bits  ) | PENDING | Bit Manipulation
 | 97 |  Single Number II    | [Link](https://leetcode.com/problems/single-number-ii  ) | PENDING | Bit Manipulation
 | 98 |  Shortest Distance from All Buildings    | [Link](https://leetcode.com/problems/shortest-distance-from-all-buildings  ) | PENDING | Breadth-first Search
