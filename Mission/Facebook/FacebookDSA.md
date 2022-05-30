@@ -12,11 +12,11 @@ These questions are intended for those who are preparing for Facebook/Meta.
 | 6 |   Toeplitz Matrix | [Link](https://leetcode.com/problems/toeplitz-matrix) | PENDING | Array
 | 7 |   Missing Ranges  | [Link](https://leetcode.com/problems/missing-ranges ) | PENDING | Array
 | 8 |   Split Array with Equal Sum  | [Link](https://leetcode.com/problems/split-array-with-equal-sum ) | PENDING | Array
-| 9 |   Set Matrix Zeroes   | [Link](https://leetcode.com/problems/set-matrix-zeroes ) | PENDING | Array
-| 10 |  Find Pivot Index    | [Link](https://leetcode.com/problems/find-pivot-index  ) | PENDING | Array
+| 9 |   Set Matrix Zeroes   | [Link](https://leetcode.com/problems/set-matrix-zeroes ) | Done | Array
+| 10 |  Find Pivot Index    | [Link](https://leetcode.com/problems/find-pivot-index  ) | Done | Array
 | 11 |  Find the Celebrity  | [Link](https://leetcode.com/problems/find-the-celebrity ) | PENDING | Array
-| 12 |  Find Winner on a Tic Tac Toe Game   | [Link](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game ) | PENDING | Array
-| 13 |  Spiral Matrix   | [Link](https://leetcode.com/problems/spiral-matrix ) | PENDING | Array
+| 12 |  Find Winner on a Tic Tac Toe Game   | [Link](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game ) | Done | Array
+| 13 |  Spiral Matrix   | [Link](https://leetcode.com/problems/spiral-matrix ) | Done | Array
 | 14 |  Maximum Sum Circular Subarray   | [Link](https://leetcode.com/problems/maximum-sum-circular-subarray ) | PENDING | Array
 | 15 |  Third Maximum Number    | [Link](https://leetcode.com/problems/third-maximum-number  ) | PENDING | Array
 | 16 |  Element Appearing More Than 25% In Sorted Array | [Link](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array ) | PENDING | Array
